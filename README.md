@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Wei 👋</h1>
 
 <p align="center">
-  AI Agents · RAG · Developer Tools · Image Generation
+  AI Agents · RAG · Developer Tools
 </p>
 
 ---
 
 ## About Me
-
+- 🏫 Master of KTH
 - 🤖 Focused on AI agents, LLM applications
 - 🛠️ Building practical developer tools and production-oriented AI systems
 - 🌱 Contributing to open-source projects
