@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <code>Python</code> · <code>Go</code> · <code>AI Agent</code> · <code>RAG</code> · <code>Product Design</code>
+  <code>Python</code> · <code>AI Agent</code> · <code>Harness</code> · <code>Product Design</code>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - 🤖 构建可观测、可评测、可落地的 AI Agent
 - 🧰 关注开发者工具、RAG 与生成式工作流
-- 🎨 重视 UI/UX、交互细节与产品体验
+- 🎨 重视 Harness工程、Memory、Context、Trace的设计和使用
 - 💼 **秋招求职中**
 
 ## 代表项目
@@ -29,7 +29,6 @@
 | --- | --- | --- |
 | **[SuperHermes](https://github.com/xiawiie/SuperHermes)** | 面向技术文档的可追溯 RAG 知识库应用 | 混合检索、CrossEncoder 重排、RAG Trace、FastAPI |
 | **[pony-code](https://github.com/xiawiie/pony-code)** | 在本地代码仓库中安全执行任务的 Coding Agent | CLI/TUI、受控工具调用、可恢复会话、Python |
-| **[image-gen-agent](https://github.com/xiawiie/image-gen-agent)** | 将生图、图像编辑与 3D 工作流串成可观测 Agent | Google ADK、LiteLLM、视觉 QA、Tripo 3D |
 
 ## 技术与设计
 
@@ -42,9 +41,9 @@
 ## 最近在做
 
 - 开发生产级 AI Agent、RAG 与生成式工作流
-- 学习 Go、Kubernetes 与 Agent Engineering
+-  Agent Engineering
 - 维护个人开源项目，并参与社区贡献
-- 寻找 AI Agent / 后端 / AI 应用方向的秋招机会
+- 寻找 AI Agent / AI 应用方向的秋招机会
 
 ## 开源贡献
 
