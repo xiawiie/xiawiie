@@ -34,7 +34,7 @@
 
 | Engineering | Design |
 | --- | --- |
-| <code>Python</code> <code>Go</code> <code>PostgreSQL</code> | <code>UI/UX</code> <code>Frontend Design</code> |
+| <code>Python</code> <code>PostgreSQL</code> | <code>UI/UX</code> <code>Frontend Design</code> |
 | <code>Docker</code> <code>Kubernetes</code> | <code>Interaction Design</code> <code>Design Systems</code> |
 | <code>LLM Application</code> <code>AI Agent</code> <code>RAG</code> | <code>Product Design</code> <code>Motion Design</code> |
 
