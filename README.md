@@ -5,7 +5,7 @@
 I focus on **state recovery, permission boundaries, observability, and product clarity**.  
 用工程让 AI 系统可追踪、可恢复、可验证，用设计让复杂工具清晰、好用。
 
-`Python` · `Go` · `Agent Runtime` · `RAG` · `Developer Tools`
+`Python` · `Agent Runtime` · `RAG` · `Developer Tools`
 
 **Open to AI Agent / Python opportunities · 27届秋招求职中**
 
