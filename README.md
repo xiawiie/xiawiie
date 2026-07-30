@@ -20,15 +20,23 @@
 
 - 🤖 构建可观测、可评测、可落地的 AI Agent
 - 🧰 关注开发者工具、RAG 与生成式工作流
-- 🎨 重视 Harness工程、Memory、Context、Evaluation和Trace的设计和使用
+- 🎨 持续学习 Harness工程、Memory、Context、Evaluation、Trace以及长程对话的设计和使用
 - 💼 **秋招求职中**
 
-## 项目
+## projects
 
 | 项目 | 解决的问题 | 技术亮点 |
 | --- | --- | --- |
 | **[SuperHermes](https://github.com/xiawiie/SuperHermes)** | 面向技术文档的可追溯 RAG 知识库应用 | 混合检索、CrossEncoder 重排、RAG Trace、FastAPI |
 | **[pony-code](https://github.com/xiawiie/pony-code)** | 在本地代码仓库中安全执行任务的 Coding Agent | CLI/TUI、受控工具调用、可恢复会话、Python |
+
+## Skills
+
+| 项目 | 解决的问题 | 技术亮点 |
+| --- | --- | --- |
+| **[SuperHermes](https://github.com/xiawiie/SuperHermes)** | 面向技术文档的可追溯 RAG 知识库应用 | 混合检索、CrossEncoder 重排、RAG Trace、FastAPI |
+| **[pony-code](https://github.com/xiawiie/pony-code)** | 在本地代码仓库中安全执行任务的 Coding Agent | CLI/TUI、受控工具调用、可恢复会话、Python |
+
 
 ## 技术与设计
 
