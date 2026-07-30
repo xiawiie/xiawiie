@@ -1,72 +1,29 @@
-<h1 align="center">Hi，我是 Wei 👋</h1>
+# Hi，我是 Wei 👋
 
-<p align="center">
-  <strong>Python Developer · AI Agent Builder · Designer</strong>
-</p>
+**AI Agent Engineer · Python Developer · Product Designer**
 
-<p align="center">
-  用工程能力把 AI 产品做得可靠，也用设计能力让它更易用。
-</p>
-
-<p align="center">
-  <code>Python</code> · <code>AI Agent</code> · <code>Harness</code> · <code>Product Design</code>
-</p>
+用工程把 AI 产品做得可靠，用设计让复杂工具变得清晰、好用。  
+目前专注 **AI Agent / RAG / Developer Tools**，**秋招求职中**。
 
 ---
 
-## 关于我
+### Selected work
 
-主要使用 **Python**，目前关注 **AI Agent、LLM Application 与 AI Infra**，同时具备产品与交互设计能力。
+- **[SuperHermes](https://github.com/xiawiie/SuperHermes)** — 可追溯的技术文档 RAG 知识库，支持混合检索、重排与 Trace。
+- **[pony-code](https://github.com/xiawiie/pony-code)** — 在本地代码仓库中安全执行任务的 Coding Agent，提供 CLI/TUI 与可恢复会话。
 
-- 🤖 构建可观测、可评测、可落地的 AI Agent
-- 🧰 关注开发者工具、RAG 与生成式工作流
-- 🎨 持续学习 Harness工程、Memory、Context、Evaluation、Trace以及长程对话的设计和使用
-- 💼 **秋招求职中**
+### Open source
 
-## projects
+- **[deer-flow #3885](https://github.com/bytedance/deer-flow/pull/3885)** — 修复流结束前的额外 LLM 调用
+- **[deer-flow #3874](https://github.com/bytedance/deer-flow/pull/3874)** — 为首轮中断任务生成回退标题
+- **[multica #4718](https://github.com/multica-ai/multica/pull/4718)** — 完善 WebSocket 重连后的状态同步
 
-| 项目 | 解决的问题 | 技术亮点 |
-| --- | --- | --- |
-| **[SuperHermes](https://github.com/xiawiie/SuperHermes)** | 面向技术文档的可追溯 RAG 知识库应用 | 混合检索、CrossEncoder 重排、RAG Trace、FastAPI |
-| **[pony-code](https://github.com/xiawiie/pony-code)** | 在本地代码仓库中安全执行任务的 Coding Agent | CLI/TUI、受控工具调用、可恢复会话、Python |
+### Skills
 
-## Skills
+`Python` · `Go` · `PostgreSQL` · `Docker` · `Kubernetes`  
+`AI Agent` · `RAG` · `Evaluation` · `Tracing`  
+`UI/UX` · `Product Design` · `Interaction Design` · `Design Systems`
 
-| 项目 | 解决的问题 | 技术亮点 |
-| --- | --- | --- |
-| **[SuperHermes](https://github.com/xiawiie/SuperHermes)** | 面向技术文档的可追溯 RAG 知识库应用 | 混合检索、CrossEncoder 重排、RAG Trace、FastAPI |
-| **[pony-code](https://github.com/xiawiie/pony-code)** | 在本地代码仓库中安全执行任务的 Coding Agent | CLI/TUI、受控工具调用、可恢复会话、Python |
+---
 
-
-## 技术与设计
-
-| Engineering | Design |
-| --- | --- |
-| <code>Python</code> <code>PostgreSQL</code> | <code>UI/UX</code> <code>Frontend Design</code> |
-| <code>Docker</code> <code>Kubernetes</code> | <code>Interaction Design</code> <code>Design Systems</code> |
-| <code>LLM Application</code> <code>AI Agent</code> <code>RAG</code> | <code>Product Design</code> <code>Motion Design</code> |
-
-## 最近在做
-
-- 开发生产级 AI Agent、RAG 与生成式工作流
--  Agent Engineering
-- 维护个人开源项目，并参与社区贡献
-- 寻找 AI Agent / AI 应用方向的秋招机会
-
-## 开源贡献
-
-### 精选已合并 PR
-
-- **[bytedance/deer-flow #3885](https://github.com/bytedance/deer-flow/pull/3885)** — 避免流结束前触发额外的默认 LLM 调用
-- **[bytedance/deer-flow #3874](https://github.com/bytedance/deer-flow/pull/3874)** — 为首轮中断的任务生成回退标题
-- **[multica-ai/multica #4718](https://github.com/multica-ai/multica/pull/4718)** — WebSocket 重连后同步任务与工作区状态
-
-
-<p align="right">
-  <a href="https://github.com/search?q=author%3Axiawiie+is%3Apr+-user%3Axiawiie&type=pullrequests">查看全部公开 PR →</a>
-</p>
-
-## 联系我
-
-- 📮 Email：[xw15897702878@163.com](mailto:xw15897702878@163.com)
-- 🐙 GitHub：[@xiawiie](https://github.com/xiawiie)
+📮 [xw15897702878@163.com](mailto:xw15897702878@163.com)
