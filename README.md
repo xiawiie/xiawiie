@@ -53,18 +53,6 @@
 - **[bytedance/deer-flow #3874](https://github.com/bytedance/deer-flow/pull/3874)** — 为首轮中断的任务生成回退标题
 - **[multica-ai/multica #4718](https://github.com/multica-ai/multica/pull/4718)** — WebSocket 重连后同步任务与工作区状态
 
-<details>
-<summary><strong>查看更多已合并 PR</strong></summary>
-
-<br>
-
-- [vast-enterprise/cli #29](https://github.com/vast-enterprise/cli/pull/29) — JWT 到期前自动刷新会话
-- [vast-enterprise/cli #28](https://github.com/vast-enterprise/cli/pull/28) — 实现图生 3D 与多视图生 3D 完整链路
-- [vast-enterprise/cli #25](https://github.com/vast-enterprise/cli/pull/25) — 实现绑定、动画、纹理、风格化、重拓扑与细化命令
-- [vast-enterprise/cli #24](https://github.com/vast-enterprise/cli/pull/24) — 实现文生 3D 完整链路
-- [vast-enterprise/cli #12](https://github.com/vast-enterprise/cli/pull/12) — 实现邮箱验证码与 JWT 登录链路
-
-</details>
 
 <p align="right">
   <a href="https://github.com/search?q=author%3Axiawiie+is%3Apr+-user%3Axiawiie&type=pullrequests">查看全部公开 PR →</a>
