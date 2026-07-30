@@ -20,7 +20,7 @@
 
 - 🤖 构建可观测、可评测、可落地的 AI Agent
 - 🧰 关注开发者工具、RAG 与生成式工作流
-- 🎨 重视 Harness工程、Memory、Context、Trace的设计和使用
+- 🎨 重视 Harness工程、Memory、Context、Evaluation和Trace的设计和使用
 - 💼 **秋招求职中**
 
 ## 代表项目
