@@ -11,7 +11,7 @@ I focus on **state recovery, permission boundaries, observability, and product c
 
 ---
 
-## Selected projects
+## Projects
 
 ### [SuperHermes](https://github.com/xiawiie/SuperHermes) — traceable RAG for private technical documents
 
